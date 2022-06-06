@@ -352,7 +352,27 @@
 		"editor.foreground": "#c2c2c5",
 		"editorWhitespace.foreground": "#808080",
 		"editor.lineHighlightBackground": "#2d2d2d",
-		"editor.selectionBackground": "#404040"
+		"editor.selectionBackground": "#393946",
+		
+		"editor.inactiveSelectionBackground": "#282832",
+		
+		"editor.selectionHighlightBackground": "#00000000",
+		"editor.selectionHighlightBorder": "#ffffff",
+		
+		"editor.wordHighlightBackground": "#00000000",
+		"editor.wordHighlightBorder": "#88BB77",
+		
+		"editor.wordHighlightStrongBackground": "#00000000",
+		"editor.wordHighlightStrongBorder": "#7E8AA2",
+		
+		"editor.findMatchBackground": "#00000000",
+		"editor.findMatchBorder": "#ff5555",
+		
+		"editor.findMatchHighlightBackground": "#00000000",
+		"editor.findMatchHighlightBorder": "#00ff00",
+		
+		"editor.findRangeHighlightBackground": "#00000080",
+		"editor.findRangeHighlightBorder": "#ff000000",
 	},
 	"name": "Mustang Obsidian BN edition"
 }
