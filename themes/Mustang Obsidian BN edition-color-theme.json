@@ -30,7 +30,7 @@
 			"scope": "entity",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#eee"
+				"foreground": "#ccc"
 			}
 		},
 		{
@@ -69,7 +69,7 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#E2E2E5"
+				"foreground": "#bbb"
 			}
 		},
 		{
@@ -152,7 +152,7 @@
 			"name": "♦ String variable",
 			"scope": "string variable",
 			"settings": {
-				"foreground": "#E2E2E5"
+				"foreground": "#bbb"
 			}
 		},
 		{
@@ -160,7 +160,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#eee"
+				"foreground": "#ccc"
 			}
 		},
 		{
@@ -168,7 +168,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#eee"
+				"foreground": "#ccc"
 			}
 		},
 		{
@@ -236,7 +236,7 @@
 			"name": "§ css:pseudo-class",
 			"scope": "meta.selector.css entity.other.attribute-name.tag.pseudo-class",
 			"settings": {
-				"foreground": "#E2E2E5"
+				"foreground": "#bbb"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"name": "§ css property-name:",
 			"scope": "support.type.property-name.css",
 			"settings": {
-				"foreground": "#E2E2E5"
+				"foreground": "#bbb"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 				"meta.property-value support.constant.property-value.css"
 			],
 			"settings": {
-				"foreground": "#55AA00"
+				"foreground": "#63BE78"
 			}
 		},
 		{
@@ -304,7 +304,7 @@
 			"settings": {
 				"background": "#0E2231",
 				"fontStyle": "italic",
-				"foreground": "#E2E2E5"
+				"foreground": "#bbb"
 			}
 		},
 		{
@@ -312,7 +312,7 @@
 			"scope": "markup.deleted",
 			"settings": {
 				"background": "#361f1f",
-				"foreground": "#E2E2E5"
+				"foreground": "#bbb"
 			}
 		},
 		{
@@ -320,7 +320,7 @@
 			"scope": "markup.changed",
 			"settings": {
 				"background": "#1d2638",
-				"foreground": "#E2E2E5"
+				"foreground": "#bbb"
 			}
 		},
 		{
@@ -328,7 +328,7 @@
 			"scope": "markup.inserted",
 			"settings": {
 				"background": "#1d381e",
-				"foreground": "#E2E2E5"
+				"foreground": "#bbb"
 			}
 		},
 		{
@@ -342,7 +342,7 @@
 			"name": "Markup: Heading",
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#E2E2E5"
+				"foreground": "#bbb"
 			}
 		}
 	],
