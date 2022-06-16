@@ -3,7 +3,7 @@
     "displayName": "Mustang Obsidian BN edition",
     "description": "The color theme from BN is based on Mustang Obsidian TM theme.",
     "publisher": "Bognaum",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "repository": {
         "type": "git",
         "url": "https://github.com/bognaum/vscode-theme-mustang-obsidian.git"
