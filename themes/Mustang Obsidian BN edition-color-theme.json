@@ -1,16 +1,6 @@
 {
 	"tokenColors": [
 		{
-			"settings": {
-				"background": "#202020",
-				"foreground": "#c2c2c5",
-				"selectionBorder": "#888888",
-				"selectionCornerStyle": "square",
-				"highlight": "#cccccc",
-				"misspelling": "#FACB68"
-			}
-		},
-		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
@@ -84,26 +74,20 @@
 			"name": "Invalid – Illegal",
 			"scope": "invalid.illegal",
 			"settings": {
-				"background": "#562D56",
 				"foreground": "#F8F8F8"
 			}
 		},
-		{
-			"name": "-----------------------------------",
-			"settings": {}
-		},
+		// ------------------------------
 		{
 			"name": "♦ Embedded Source",
 			"scope": "text source",
 			"settings": {
-				"background": "#252525"
 			}
 		},
 		{
 			"name": "♦ Embedded Source (Bright)",
 			"scope": "text.html.ruby source",
 			"settings": {
-				"background": "#2A2A2A"
 			}
 		},
 		{
@@ -302,7 +286,6 @@
 				"meta.separator"
 			],
 			"settings": {
-				"background": "#0E2231",
 				"fontStyle": "italic",
 				"foreground": "#bbb"
 			}
@@ -311,7 +294,6 @@
 			"name": "⎇ diff.deleted",
 			"scope": "markup.deleted",
 			"settings": {
-				"background": "#361f1f",
 				"foreground": "#bbb"
 			}
 		},
@@ -319,7 +301,6 @@
 			"name": "⎇ diff.changed",
 			"scope": "markup.changed",
 			"settings": {
-				"background": "#1d2638",
 				"foreground": "#bbb"
 			}
 		},
@@ -327,7 +308,6 @@
 			"name": "⎇ diff.inserted",
 			"scope": "markup.inserted",
 			"settings": {
-				"background": "#1d381e",
 				"foreground": "#bbb"
 			}
 		},
