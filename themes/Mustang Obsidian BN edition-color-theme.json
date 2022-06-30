@@ -390,7 +390,9 @@
 		"notifications.border": "#666",
 	
 		"debugExceptionWidget.border": "#666",
-		"debugToolBar.border": "#666"
+		"debugToolBar.border": "#666",
+
+		"contrastBorder": "#444",
 	},
 	"name": "Mustang Obsidian BN edition"
 }
